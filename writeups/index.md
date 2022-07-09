@@ -8,3 +8,4 @@ permalink: /writeups/index
 ### List of my writeups
 
 - [Wonderland - THM](/writeups/wonderland)
+- [Madeye's Castle - THM](/writeups/madeyescastle)

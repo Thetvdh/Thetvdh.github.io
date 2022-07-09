@@ -8,6 +8,12 @@ permalink: /writeups/wonderland
 ## Tags
 ctf, alice in wonderland, privesc, linux
 
+## Metadata
+
+| Written | 08/07/2022
+| Author | Thetvdh
+| Platform | TryHackMe
+
 ## Tools used
 
 - nmap
