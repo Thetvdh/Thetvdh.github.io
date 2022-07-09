@@ -13,6 +13,7 @@ security, boot2root, web, sql
 | Written | 10/07/2022
 | Author | Thetvdh
 | Platform | TryHackMe
+| Box Type | Linux
 
 ## Tools used
 
