@@ -10,7 +10,7 @@ security, boot2root, web, sql
 
 ## Metadata
 
-| Written | 11/07/2022
+| Written | 10/07/2022
 | Author | Thetvdh
 | Platform | TryHackMe
 
