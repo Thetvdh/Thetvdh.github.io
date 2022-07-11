@@ -243,7 +243,7 @@ The comment on Hermonine liking historical text editors makes me think it could 
 
 ## Password Cracking
 
-Using NameThatHash lets see what the hash most likely is and find out what setting on hashcat we need to use
+Using NameThatHash lets see what the hash most likely is and tells us what setting on hashcat we need to use
 
 `echo "passwordhash" > hash.txt`
 `nth --file hash.txt`
@@ -325,7 +325,7 @@ User harry may run the following commands on hogwartz-castle:
     (hermonine) /usr/bin/pico
     (hermonine) /usr/bin/pico
 ```
-Me being young menas I had no clue what pico was but a bit of research told me that Pico is Nanos predecessor. That is where the line of herminone liking old text editors comes in. This means we can run pico as hermonine so let us do that.
+Me being young means I had no clue what pico was but a bit of research told me that Pico is Nanos predecessor. That is where the line of herminone liking old text editors comes in. This means we can run pico as hermonine so let us do that.
 
 `sudo -u hermonine /usr/bin/pico`
 
@@ -418,7 +418,7 @@ setreuid
 
 This program is using srand() and using time as a seed
 
-This is not particularly secure as if you run the program again quickly enough it will generate the same number twice in a row.7
+This is not particularly secure as if you run the program again quickly enough it will generate the same number twice in a row.
 
 As the program tells us what the number is, with a bit of text manipulation we can run it.
 
