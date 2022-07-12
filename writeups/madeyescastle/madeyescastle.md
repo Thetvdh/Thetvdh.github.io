@@ -469,7 +469,7 @@ After being confused for ages it turns out putting /tmp in the path doens't work
 
 To get it to work I repeated the same steps as above but using Harry's home directory and it worked.
 
-This is a short shell script that will do everything for you
+This is a short shell script that will do everything for you, it can be downloaded [here](/programs/Bash/madeyeprivesc.sh)
 
 ```sh
 #!/bin/sh

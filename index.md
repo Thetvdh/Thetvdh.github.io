@@ -22,3 +22,7 @@ I am a cyber security student who does CTFs in their spare time. The purpose of 
 ## Writeups
 
 ### Please click [here](/writeups) for my list of writeups
+
+## Custom scripts
+
+### Please click [here](/programs/) for a list of scripts I have written for CTFs and other general use.
