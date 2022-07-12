@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import subprocess
 
 # These vars do not need to be changed unless the port numbers in the challenge change
