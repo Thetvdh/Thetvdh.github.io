@@ -13,3 +13,5 @@ permalink: /programs/
 
 ## Bash
 - [Madeye's Castle](/writeups/madeyescastle/madeyescastle) Privesc script [Download](/programs/Bash/madeyeprivesc.sh)
+
+- Username wordlist from passwd file. Used in [Looking Glass CTF (Not yet released)](#). [Download](/programs/Bash/usersfrompasswd.sh)
