@@ -28,3 +28,7 @@ I am a cyber security student who does CTFs in their spare time. The purpose of 
 ## Custom scripts
 
 ### Please click [here](/programs/) for a list of scripts I have written for CTFs and other general use.
+
+# Information
+
+### Please click [here](/useful) for a list of cheatsheets that are useful for cybersec.
