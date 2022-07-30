@@ -16,6 +16,7 @@ uname -a #Useful for finding distro/kernel specific exploits
 free -h # Shows the system memory
 cat /proc/cpuinfo
 df  -h # Shows the space across the different volumes
+lsblk # lists all available device drives
 sudo du / -hd1 # Shows disk usage in human readable formats, d1 shows level of detail (folder depth)
 sudo lshw > sysinfo.txt # Shows generic information about the system
 ip addr # New way of listing adapter details 
