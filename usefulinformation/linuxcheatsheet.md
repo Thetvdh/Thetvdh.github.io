@@ -15,6 +15,7 @@ uname -a #Useful for finding distro/kernel specific exploits
 ```sh
 free -h # Shows the system memory
 cat /proc/cpuinfo
+nproc # Shows number of cores
 df  -h # Shows the space across the different volumes
 lsblk # lists all available device drives
 sudo du / -hd1 # Shows disk usage in human readable formats, d1 shows level of detail (folder depth)
