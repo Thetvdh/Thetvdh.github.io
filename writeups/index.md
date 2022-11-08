@@ -10,3 +10,4 @@ permalink: /writeups/index
 - [Wonderland - THM](/writeups/wonderland)
 - [Madeye's Castle - THM](/writeups/madeyescastle)
 - [Looking Glass - THM](/writeups/lookingglass)
+- [Faculty - HTB](/writeups/faculty)
