@@ -11,3 +11,4 @@ permalink: /writeups/index
 - [Madeye's Castle - THM](/writeups/madeyescastle)
 - [Looking Glass - THM](/writeups/lookingglass)
 - [Faculty - HTB](/writeups/faculty)
+- [Linux Agency - THM](/writeups/agency)
