@@ -571,7 +571,7 @@ Protocol mismatch.
 Lovely stuff, we now know it is an ssh port so we can SSH into it as robert
 
 ```
-ssh robert@localhost -p 222 -i id_rsa
+ssh robert@localhost -p 2222 -i id_rsa
 ```
 
 ## Robert -> Root (sorta)
@@ -611,7 +611,7 @@ Being root gives us some options for container escape. A good place to look is a
 
 We have a docker.sock file, let's have a look at it
 ```
-ls -la /run/docker.dock
+ls -la /run/docker.sock
 ```
 
 This is very good for us. We can write to the docker sock. This means we can escape using a simple command or two.
