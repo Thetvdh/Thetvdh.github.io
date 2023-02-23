@@ -205,6 +205,7 @@ Now it was just a case of crafting an exploit to read root.txt.
 ## root.txt steps
 
 1) Create a new dotnet project `sudo dotnet new console -n {project_name} -o .`
+
 2) Open Program.cs and paste the following code into it
 ```csharp
 // This code was taken from Microsoft Documentation then slightly modified to read the correct file.
@@ -227,7 +228,9 @@ class ReadFromFile
 }
 ```
 3) Save and exit this file
+
 4) Run the file with `sudo dotnet run`
+
 5) You should now have the value of the root flag!
 
 # Conclusion
