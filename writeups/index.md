@@ -13,3 +13,4 @@ permalink: /writeups/index
 - [Faculty - HTB](/writeups/faculty)
 - [Linux Agency - THM](/writeups/agency)
 - [Bagel - HTB](/writeups/bagel)
+- [BoardLight - HTB](/writeups/boardlight)

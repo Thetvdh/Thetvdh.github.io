@@ -3,7 +3,7 @@ title: "Faculty(HTB)"
 permalink: /writeups/faculty
 ---
 
-# <a href="https://app.hackthebox.com/machines/Faculty" target="_blank">Faculty (THM)</a>
+# <a href="https://app.hackthebox.com/machines/Faculty" target="_blank">Faculty (HTB)</a>
 
 ![Faculty HTB Logo](/writeups/Faculty/logo.png "Logo")
 
