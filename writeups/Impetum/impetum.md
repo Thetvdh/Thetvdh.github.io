@@ -17,6 +17,17 @@ ctf, custom box, ftp, beginner
 
 ## Tools used
 
+- nmap
+- ffuf
+- ftp
+- hashcat
+- ssh2john
+- john the ripper
+- ssh
+- name-that-hash
+- base64
+- neofetch
+- openssl
 
 
 # Foreword
