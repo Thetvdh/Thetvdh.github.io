@@ -15,3 +15,4 @@ permalink: /writeups/index
 - [Bagel - HTB](/writeups/bagel)
 - [BoardLight - HTB](/writeups/boardlight)
 - [Impetum - THM](/writeups/impetum)
+- [HTB University CTF 2024](/writeups/HTBUniCTF/)
