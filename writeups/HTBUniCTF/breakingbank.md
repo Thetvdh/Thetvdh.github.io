@@ -63,7 +63,7 @@ This means we need to take over the financial controllers account in order to co
 
 ## Exploiting JWKS
 
-JWKS (JSON Web Key Sets) is an alternative method of signing JSON Web Tokens (JWT). Traditionally, with a JWT you would have a "secret" that is used to sign the key using symmetric cyrptography. JWKS allows for asymmetric cyrptography to be used instead using an algorithm such as RSA. The JWKS.json file allows for multiple key sets to be used with each key having a unique key id (kid) so that the correct private key can be used for signing the tokens. In this instance, only one key was set in the file.
+JWKS (JSON Web Key Sets) is an alternative method of signing JSON Web Tokens (JWT). Traditionally, with a JWT you would have a "secret" that is used to sign the key using symmetric cryptography. JWKS allows for asymmetric cyrptography to be used instead using an algorithm such as RSA. The JWKS.json file allows for multiple key sets to be used with each key having a unique key id (kid) so that the correct private key can be used for signing the tokens. In this instance, only one key was set in the file.
 
 Navigating to http://94.237.54.116:39448/.well-known/jwks.json revealed the public key used by the application. We will download this file using wget for reference purposes.
 
@@ -124,7 +124,7 @@ Lets have a look at the source code that handles the jwks and see if either of t
 
 ![Token Verification](/writeups/HTBUniCTF/images/tokenverify.PNG)
 
-Viewing the code here shows that the token headers must fufill certain requirements:
+Viewing the code here shows that the token headers must fulfil certain requirements:
 
 1) The jku **MUST** start with http://127.0.0.1:1337/
 2) The kid must be present **AND** equal to the KEY_ID variable
